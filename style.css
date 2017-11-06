@@ -1,0 +1,139 @@
+html,body{
+    width:100%;
+    height: 100%;
+    display:-webkit-flex;
+    flex-direction: column;
+    position: absolute;
+    top:0;
+    bottom:0;
+    font-size:14px;
+}
+@media screen and (min-width:320px){
+    body{
+        width:100%;
+    }
+}
+@media screen and (max-width:640px){
+    body{
+        width:100%;
+    }
+}
+header{
+    width:100%;
+    height: 45px;
+    position:relative;
+}
+header h1{
+ width:100%;
+ height: 45px;
+ text-align:center;
+ font-size:20px;
+ color:red;
+ line-height: 45px;
+}
+header select{
+    width:100px;
+    height: 45px;
+    background:#ccf;
+    position: absolute;
+    top:0;
+    left:0;
+    border:0;
+    background:#fff;
+    text-align: center;
+}
+header p{
+    position: absolute;
+    right:0;
+    top:0;
+}
+header p a{
+    padding:10px;
+}   
+section{
+    flex:1;
+    background:#ccc;
+    overflow-y: scroll;
+}
+section .top{
+    width:100%;
+    display: -webkit-flex;
+    background:#fff;
+}
+section .top dl{
+    flex:1;
+    width:25%;
+    text-align: center;
+    background:#cce;
+    margin:5px;
+}
+section .top dl dt .icon{
+    font-size:40px;
+    padding-top:10px;
+    padding-bottom:10px;
+
+}
+section .top dl dd{
+    line-height:30px;
+
+}
+section .bottom{
+    width:100%;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+    margin-top:10px;
+}
+section .bottom dl{
+    width:24.3%;
+    text-align: center;
+    background:#fff;
+    border:1px solid #ccc;
+}
+section .bottom dl dt .icon{
+    font-size:40px;
+    padding-top:10px;
+    padding-bottom:10px;
+
+}
+section .bottom dl dd{
+    line-height:40px;
+}
+section .bottom dl dd{
+    line-height:40px;
+}
+section .banner img{
+    width:100%;
+    height:auto;
+}
+section .main{
+    width:100%;
+    display: -webkit-flex;
+    flex-wrap:wrap;
+    background:#fff;
+}
+section .main dl{
+    flex:1;
+    width:25%;
+    text-align: center;
+    background:#cce;
+    margin:5px;
+}
+section .main dl dt .icon{
+    font-size:40px;
+    padding-top:10px;
+    padding-bottom:10px;
+
+}
+footer{
+    height: 45px;
+    background:#ccc;
+    display:-webkit-flex;
+    opacity:0.3;
+}
+footer dl{
+width:25%;
+text-align: center;
+}
+footer dl dd{
+    line-height:25px;
+}

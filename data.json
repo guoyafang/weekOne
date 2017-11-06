@@ -1,0 +1,37 @@
+{
+ "tops":[
+     {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+     {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+     {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+     {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"}
+    ],
+ "bottoms":[
+        {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+        {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+        {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+        {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+        {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+        {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+        {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+        {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+        {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+        {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+        {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+        {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"}
+    ],
+  "swipe":["images/logo_01.png"],
+  "main":[
+    {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+    {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+    {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+    {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+    {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+    {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+    {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+    {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+    {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+    {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+    {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"},
+    {"classname":"icon iconfont icon-zanting4","classtit":"换轮胎"}
+]
+}
